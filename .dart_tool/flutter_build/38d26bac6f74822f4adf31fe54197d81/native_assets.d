@@ -1,0 +1,1 @@
+ /Users/selected/Documents/Work/Projects/Flutter/Personal_Projects/touch_tracker/.dart_tool/flutter_build/38d26bac6f74822f4adf31fe54197d81/native_assets.yaml: 
